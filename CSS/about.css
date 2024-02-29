@@ -474,7 +474,7 @@ label{
        /* Capabbilties */
     .capabilities{
         flex-direction: column;
-        margin:7rem 2rem 3rem .5rem;
+        margin:4rem 2rem 3rem .5rem;
         padding-bottom:4rem;
     }
     .cap-head h1{
@@ -482,10 +482,12 @@ label{
         margin-left: 1rem;
     }
     .cap-para p{
-        margin-left: 1rem;
-        margin-right:5rem;
         font-size: 14px;
+        margin:0rem 5rem 1rem 1rem;
         letter-spacing:1px;
+    }
+    .cap-para-para{
+        margin-top:-2.5rem;
     }
     .cap-para-list{
         margin-left:0rem;
